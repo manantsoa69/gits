@@ -1,5 +1,5 @@
-fastapi
-uvicorn
-g4f
+fastapi==0.103.1
+uvicorn==0.23.2
+g4f==0.0.2.9
 
 
