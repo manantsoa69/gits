@@ -32,7 +32,7 @@ PROVIDERS = [
 ]
 
 # Define the default provider and GPT-3.5 Turbo model
-DEFAULT_PROVIDER = g4f.Provider.Vercel
+DEFAULT_PROVIDER = g4f.Provider.DeepAi
 GPT_MODEL = None
 
 # Initialize the current provider with the default provider
