@@ -21,7 +21,7 @@ PROVIDERS = [
     g4f.Provider.ChatgptAi,
     g4f.Provider.ChatgptLogin,
     g4f.Provider.CodeLinkAva,
-    g4f.Provider.DeepAi,
+    g4f.Provider.Vercel,
     g4f.Provider.Opchatgpts,
     g4f.Provider.Vercel,
     g4f.Provider.Vitalentum,
@@ -32,7 +32,7 @@ PROVIDERS = [
 ]
 
 # Define the default provider and GPT-3.5 Turbo model
-DEFAULT_PROVIDER = g4f.Provider.Wewordle
+DEFAULT_PROVIDER = g4f.Provider.Vercel
 GPT_MODEL = None
 
 # Initialize the current provider with the default provider
